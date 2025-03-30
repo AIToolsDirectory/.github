@@ -1,18 +1,18 @@
-# AIDir.app: Your Ultimate AI Directory
+# Your Ultimate AI Tools Directory
 
-Welcome to [AIDir.app](https://aidir.app) , the definitive directory for discovering the best free AI tools and applications. Whether you're a developer, researcher, or simply an AI enthusiast, AIDir.app is your go-to resource for exploring a wide range of AI-powered solutions across various categories.
+Welcome to [Some AI](https://someai.org) , the definitive directory for discovering the best free AI tools and applications. Whether you're a developer, researcher, or simply an AI enthusiast, Some AI is your go-to resource for exploring a wide range of AI-powered solutions across various categories.
 
-## Why Choose AIDir.app?
+## Why Choose Some AI?
 
 ### 1. Comprehensive and Free Access
 
-- **No Cost, No Login**: AIDir.app is entirely free to use, with no registration required. This ensures that users can immediately access and explore AI tools without any barriers, making it an ideal platform for both casual users and professionals.
-- **Extensive Collection**: With over 10,000 AI tools, AIDir.app offers one of the most extensive collections available online. This vast array of tools ensures that users can find solutions tailored to their specific needs, whether for personal projects or professional applications.
+- **No Cost, No Login**: Some AI is entirely free to use, with no registration required. This ensures that users can immediately access and explore AI tools without any barriers, making it an ideal platform for both casual users and professionals.
+- **Extensive Collection**: With over 10,000 AI tools, Some AI offers one of the most extensive collections available online. This vast array of tools ensures that users can find solutions tailored to their specific needs, whether for personal projects or professional applications.
 
 ### 2. User-Friendly Experience
 
 - **Intuitive Design**: Our platform is designed with user experience in mind. The clean and straightforward interface allows users to easily navigate through different categories and quickly find the tools they need.
-- **Powerful Search Functionality**: AIDir.app features a robust search engine that enables users to find specific AI tools or browse by use case, ensuring efficient and effective discovery.
+- **Powerful Search Functionality**: Some AI features a robust search engine that enables users to find specific AI tools or browse by use case, ensuring efficient and effective discovery.
 
 ### 3. Regular Updates and Innovations
 
@@ -23,7 +23,7 @@ Welcome to [AIDir.app](https://aidir.app) , the definitive directory for discove
 
 ### Diverse Categories
 
-AIDir.app categorizes AI tools into various segments, including:
+Some AI categorizes AI tools into various segments, including:
 
 - **Image Generation**: Discover tools that transform text into stunning visuals, perfect for creative projects and marketing materials.
 - **Video Generation**: Explore applications that create videos from scripts or images, ideal for content creators and educators.
@@ -37,16 +37,16 @@ AIDir.app categorizes AI tools into various segments, including:
 
 ### Community and Support
 
-- **FAQ Section**: Our comprehensive FAQ section provides answers to common questions about AIDir.app and its offerings, ensuring users have the information they need to make the most of the platform.
+- **FAQ Section**: Our comprehensive FAQ section provides answers to common questions about Some AI and its offerings, ensuring users have the information they need to make the most of the platform.
 - **Tool Suggestions**: We welcome user suggestions for new AI tools to be added to our directory. This collaborative approach ensures that our platform remains relevant and valuable to our community.
 
 ## Join the AI Revolution
 
-AIDir.app is more than just a directory; it's a community of AI enthusiasts and professionals. Bookmark our site and join us in exploring the limitless possibilities of AI technology. Whether you're looking to enhance your projects or simply curious about AI, AIDir.app is here to guide you.
+Some AI is more than just a directory; it's a community of AI enthusiasts and professionals. Bookmark our site and join us in exploring the limitless possibilities of AI technology. Whether you're looking to enhance your projects or simply curious about AI, Some AI is here to guide you.
 
 ## Future Prospects
 
 - **Community Interaction**: We plan to introduce more community interaction features, allowing users to share experiences and insights, fostering a collaborative environment.
 - **Personalized Recommendations**: Based on user preferences, we aim to offer personalized AI tool recommendations, helping users quickly find the solutions they need.
-- **Educational Resources**: AIDir.app will provide AI learning resources and tutorials, empowering users to better understand and apply AI technologies.
+- **Educational Resources**: Some AI will provide AI learning resources and tutorials, empowering users to better understand and apply AI technologies.
 
